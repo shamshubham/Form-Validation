@@ -1,7 +1,3 @@
-Here's the updated README with the images included:
-
----
-
 # 📋 Form Validation Script
 
 Welcome to the Form Validation Script project! This JavaScript-based tool ensures that your contact form is completed accurately before submission. It offers real-time feedback to help users correct errors and submit flawless forms.
